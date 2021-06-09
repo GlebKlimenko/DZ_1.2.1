@@ -16,7 +16,7 @@
 
 - баг репорт
 
-В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/tree/master/programming>:
+В качестве тестовых данных использовались данные [java-homeworks](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
 
 
 ## Тестирование производилось в следующем окружении:
